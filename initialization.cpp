@@ -14,6 +14,7 @@ public:
     mahasiswa(){
         cout << "id     = " << id << endl;
         cout << "nama   = " << nama << endl;
+        cout << "nilai  = " << nilai << endl;
 
     }
     
